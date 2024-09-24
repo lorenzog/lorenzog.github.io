@@ -1,8 +1,8 @@
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+theme: "minima"
 title: lg's blog
 description: musings on infosec and tech
 
-  # theme: "minima"
 
 rss: rss
 
