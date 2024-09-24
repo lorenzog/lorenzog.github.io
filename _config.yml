@@ -1,5 +1,6 @@
 # theme: jekyll-theme-minimal
 theme: "minima"
+skin: "dark"
 title: lg's blog
 description: musings on infosec and tech
 
