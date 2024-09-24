@@ -1,8 +1,11 @@
 # theme: jekyll-theme-minimal
 theme: "minima"
-skin: "dark"
+  skin: "dark"
 title: lg's blog
 description: musings on infosec and tech
+
+header_pages:
+  - about.md
 
 
 rss: rss
