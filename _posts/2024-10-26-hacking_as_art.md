@@ -1,3 +1,13 @@
+---
+layout: post_markdown
+title: Hacking as Art
+description: Appreciating beauty, and hacking as an artform.
+tags:
+- hacking
+- art
+- beauty
+---
+
 # Hacking as Art
 
 Reading "Zen and the Art of Motorcycle Maintenance", p.98:
