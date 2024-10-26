@@ -54,7 +54,6 @@ understand, because to me, understanding is searching for meaning.
 Hacking is art, my art.
 
 
-{% for tag in site.tags %}
-  Name: {{ tag | first }},
-  count: {{ tag | last | size}}
+{% for tag in page.tags %}
+    {{ tag }}
 {% endfor %}
