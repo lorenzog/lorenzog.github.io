@@ -53,3 +53,9 @@ reasoning, or quality of exploitation. I can't do what I don't
 understand, because to me, understanding is searching for meaning.
 
 Hacking is art, my art.
+
+
+{% for tag in site.tags %}
+  Name: {{ tag | first }},
+  count: {{ tag | last | size}}
+{% endfor %}
