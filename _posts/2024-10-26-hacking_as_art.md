@@ -1,5 +1,4 @@
 ---
-layout: post_markdown
 title: Hacking as Art
 description: Appreciating beauty, and hacking as an artform.
 tags:
