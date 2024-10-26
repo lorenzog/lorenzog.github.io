@@ -53,6 +53,7 @@ understand, because to me, understanding is searching for meaning.
 
 Hacking is art, my art.
 
+---
 
 {% for tag in page.tags %}
     {{ tag }}
