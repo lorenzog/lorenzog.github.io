@@ -1,0 +1,38 @@
+theme: "minima"
+skin: "dark"
+title: lg's blog
+description: musings on infosec and tech
+author: Lorenzo
+author_email: lorenzo.grespan@proton.me
+email: lorenzo.grespan@proton.me
+github_username:  lorenzog
+
+
+header_pages:
+  - about.md
+
+
+rss: rss
+
+  # kramdown:
+  #   syntax_highlighter_opts:
+  #     disable: true
+    
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - github-pages
+
+titles_from_headings:
+  strip_title: true
+  collections: true
+
+defaults:
+  - scope:
+      path: ""
+      type: post
+    values:
+      tags: Other
+
+# inspired by https://github.com/peterroelants/peterroelants.github.io/blob/main/_config.yml
+
