@@ -36,7 +36,7 @@ defaults:
 
 # inspired by https://github.com/peterroelants/peterroelants.github.io/blob/main/_config.yml
 
-collections:
-  posts:
-    output: true
-    permalink: /:path/
+# collections:
+#   posts:
+#     output: true
+#     permalink: /:path/
